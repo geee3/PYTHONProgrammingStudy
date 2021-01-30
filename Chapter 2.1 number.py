@@ -17,17 +17,17 @@ a = 0x8ff
 print(a, "= Hexadecimal datatype")
 
 # 숫자형을 활용하기 위한 연산자.
-# x의 y제곱을 나타내는 ** 연산자.
+# 1. x의 y제곱을 나타내는 ** 연산자.
 a = 3
 b = 4
 print(a ** b, "= result of 3 ** 4")
 
-# 나눗셈 후 나머지를 반환하는 % 연산자.
+# 2. 나눗셈 후 나머지를 반환하는 % 연산자.
 a = 7
 b = 3
 print(a % b, "= result of 7 % 3,", b % a, "= result of 3 % 7")
 
-# 나눗셈 후 몫을 반환하는 // 연산자.
+# 3. 나눗셈 후 몫을 반환하는 // 연산자.
 a = 7
 b = 4
 print(a / b, "= result of 7 / 4,", a // b, "= result of 7 // 4")
