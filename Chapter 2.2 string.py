@@ -6,8 +6,8 @@ food = "Python's favorite food is perl"
 print(food)
 
 # 2. 작은 따옴표(')로 양쪽 둘러싸기.
-say = '"Python is very easy." he says.'
-print(say)
+says = '"Python is very easy." he says.'
+print(says)
 
 # 3. 큰 따옴표 또는 작은 따옴표 3개를 연속(""")으로 써서 양쪽 둘러싸기.
 multiline = """Life is too short
